@@ -1694,4 +1694,4 @@ async def on_message(message):
 
 
 
-client.run("your_token")
+client.run("986769885042458665")
